@@ -1,6 +1,5 @@
 # TimeZone List - Android Application - Kotlin
-Sample android app using mvvm clean architecture with Hilt DI
-
+Sample android app to list the multiple time zones using mvvm clean architecture using Hilt
 ## Architecture
 This application follows basic SOLID Principles and clean code approach and also uses MVVM pattern.
 ## Modularization
